@@ -1,0 +1,4 @@
+101,java,nagaraj
+102,python,jega
+103,sql,hari
+104,js,nivas
