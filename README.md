@@ -68,4 +68,4 @@ This project is open-source and free to use.
 # Author
 NAGARAJ  A
 
-GitHub Repository Link: (add your repository URL here)
+GitHub Repository Link: (https://github.com/mku201c0s10240/Syntecxhub_Library_Management_System/tree/main)
