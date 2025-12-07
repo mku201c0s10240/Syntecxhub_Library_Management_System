@@ -33,6 +33,7 @@ javac LibraryllanagementSystem.java
 
 java LibraryManagement System
 
+# Sample Output
 ======Library Management System ======
 
 1. Add Book
@@ -40,8 +41,6 @@ java LibraryManagement System
 3. Search Book
 4. Display All Books
 5. Exit
-
-# Sample Output
 * Enter your choice: 1
 * Enter Book ID: 101
 * Enter Book Name: Java Programming
